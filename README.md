@@ -12,7 +12,9 @@ A public collection of illustrated literary projects by **Tishri Clarin**.
 
 ### Read the book
 
-**[Open the illustrated 48-page book (PDF)](THE_LAST_VESSEL/The_Last_Vessel_Illustrated_48_Pages.pdf)**
+**[Read the complete manuscript (Markdown)](THE_LAST_VESSEL/The_Last_Vessel_Manuscript.md)**
+
+*Illustrated PDF, page-image archive, editable Word file, and book poster: pending binary upload.*
 
 A first-person narrative about fragmented memories, recurring dreams, imagined future civilizations, machine consciousness, and humanity's final departure from Earth. It blends personal reflection with speculative storytelling. Its visions and spiritual imagery are presented as elements of the narrator's subjective experience, not verified events.
 
@@ -32,12 +34,12 @@ A first-person narrative about fragmented memories, recurring dreams, imagined f
 
 | File | Purpose |
 | --- | --- |
-| [Illustrated book (PDF)](THE_LAST_VESSEL/The_Last_Vessel_Illustrated_48_Pages.pdf) | Complete 48-page reading edition |
-| [Page images (ZIP)](THE_LAST_VESSEL/The_Last_Vessel_All_48_PNG_Pages.zip) | All 48 pages as individual PNG files |
-| [Editable manuscript (DOCX)](THE_LAST_VESSEL/The_Last_Vessel_Editable.docx) | Edit in Word / compatible editors |
+| Illustrated book (PDF) — *pending upload* | Complete 48-page reading edition |
+| Page images (ZIP) — *pending upload* | All 48 pages as individual PNG files |
+| Editable manuscript (DOCX) — *pending upload* | Edit in Word / compatible editors |
 | [Manuscript (Markdown)](THE_LAST_VESSEL/The_Last_Vessel_Manuscript.md) | Read and edit as plain Markdown |
 | [Copyable manuscript (TXT)](THE_LAST_VESSEL/The_Last_Vessel_Copyable_Text.txt) | Text without layout |
-| [Book structure poster (PNG)](THE_LAST_VESSEL/Book_Structure_Poster.png) | Illustrated concept poster with an earlier chapter outline |
+| Book structure poster (PNG) — *pending upload* | Illustrated concept poster with an earlier chapter outline |
 
 **Note:** The book structure poster is a visual concept outline, and its chapter plan differs from the completed 14-chapter manuscript above.
 
